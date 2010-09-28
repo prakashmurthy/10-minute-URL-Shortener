@@ -1,0 +1,5 @@
+A Ten-minute URL Shortener - implemented using the steps described in http://blogs.sitepoint.com/2010/09/28/a-ten-minute-url-shortener/
+
+Following the steps described in this page, I deployed my first application on Heroku! (Modified the functionality a bit to make http://growing-samurai-36.heroku.com get redirected to this blog : http://zero2railshero.tumblr.com )
+
+Also, tried out my hand at writing rspec tests for the first time!
